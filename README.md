@@ -26,7 +26,9 @@
 
 ## 💻 About The Project
 
-As Kodlama.io, we decided to share examples of completed projects. Inspired by Clean Architecture, nArchitecture is a monolith project that showcases advanced development techniques. The project includes Clean Architecture, CQRS, Advanced Repository, Dynamic Querying, JWT, OTP, Google & Microsoft Auth, Role-Based Management, Distributed Caching (Redis), Logging (Serilog), Elastic Search, [Code Generator](https://github.com/kodlamaio-projects/nArchitecture.Gen) and much more. By contributing, you can support the project and learn new things.
+I decided to share examples of completed projects. Inspired by Clean Architecture, nArchitecture is a monolithic project that features advanced development techniques. The project includes Clean Architecture, CQRS, Advanced Repository, Dynamic Querying, JWT, OTP, Google & Microsoft Auth, Role-Based Management, Distributed Caching (Redis), Logging (Serilog), Elastic Search, Code Generator and much more. By contributing, you can support the project and learn new things.
+
+
 
 ### Built With
 
@@ -70,7 +72,7 @@ To get a local copy up and running follow these simple steps.
 
 ## 🚧 Roadmap
 
-See the [open issues](https://github.com/kodlamaio-projects/nArchitecture/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/tayyib57/Location-Service) for a list of proposed features (and known issues).
 
 ## 🤝 Contributing
 
@@ -86,7 +88,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Contributing on Core Packages With This Repo:
 
-1. Fork the [nArchitecture.Core](https://github.com/kodlamaio-projects/nArchitecture.Core) project
+1. Fork the [nArchitecture.Core](https://github.com/tayyib57/Location-Service) project
 2. Locate to `src/corePackages` path (`cd .\src\corePackages\`)
 3. Add your forked nArchitecture.Core repository remote address (`git remote add <YourUserName> https://github.com/<YourUserName>/nArchitecture.Core.git`)
 4. Create your Feature Branch (`git checkout -b <Feature>/<AmazingFeature>'`)
@@ -112,7 +114,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-**Project Link:** [https://github.com/kodlamaio-projects/nArchitecture](https://github.com/kodlamaio-projects/nArchitecture)
+**Project Link:** [https://github.com/tayyib57/Location-Service)
 
 <!-- ## 🙏 Acknowledgements
 - []() -->
