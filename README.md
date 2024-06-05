@@ -13,14 +13,14 @@
   <p align="center">
     <!-- PROJECT_DESCRIPTION -->
     <!-- <br />
-    <a href="https://github.com/kodlamaio-projects/nArchitecture"><strong>Explore the docs »</strong></a>
+    <a href="https://https://github.com/tayyib57/Location-Service"><strong>Explore the docs »</strong></a>
     <br /> -->
     <!-- <br />
-    <a href="https://github.com/kodlamaio-projects/nArchitecture">View Demo</a>
+    <a href="https://github.com/tayyib57/Location-Service/nArchitecture">View Demo</a>
     · -->
-    <a href="https://github.com/kodlamaio-projects/nArchitecture/issues">Report Bug</a>
+    <a href="https://https://github.com/tayyib57/Location-Service/nArchitecture/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kodlamaio-projects/nArchitecture/discussions">Request Feature</a>
+    <a href=https://github.com/tayyib57/Location-Service/nArchitecture/discussions">Request Feature</a>
   </p>
 </p>
 
@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone --recurse-submodules https://github.com/kodlamaio-projects/nArchitecture.git
+   git clone --https://github.com/tayyib57/Location-Service
    ```
 2. Configure `appsettings.json` in WebAPI.
 3. Run `Update-Database` command with Package Manager Console in WebAPI to create tables in sql server.
